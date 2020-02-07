@@ -1,8 +1,30 @@
 apiVersion: v1
 entries:
   gitea:
+  - appVersion: 0.0.5
+    created: 2020-02-07T09:45:05.31820213Z
+    description: Git with a cup of tea
+    digest: 3d978483c3ac7938020cd5a77c64789b4dd0689d5e691450496db5f8cc9579bf
+    icon: https://docs.gitea.io/images/gitea.png
+    keywords:
+    - git
+    - issue tracker
+    - code review
+    - wiki
+    - gitea
+    - gogs
+    maintainers:
+    - email: caryyu.tg@gmail.com
+      name: Cary Yu
+    name: gitea
+    sources:
+    - https://github.com/go-gitea/gitea
+    - https://hub.docker.com/r/gitea/gitea/
+    urls:
+    - gitea-0.0.5.tgz
+    version: 0.0.5
   - appVersion: 0.0.4
-    created: "2020-02-07T16:08:21.77105+08:00"
+    created: 2020-02-07T09:45:05.316456008Z
     description: Git with a cup of tea
     digest: 1f91050f3a4e556683a5984c0962119f77841281444ec5513b7a7b3b7902f9d2
     icon: https://docs.gitea.io/images/gitea.png
@@ -24,7 +46,7 @@ entries:
     - gitea-0.0.4.tgz
     version: 0.0.4
   - appVersion: 0.0.3
-    created: "2020-02-07T16:08:21.76901+08:00"
+    created: 2020-02-07T09:45:05.314665488Z
     description: Git with a cup of tea
     digest: 47c5daccd6f8007cf01ca9b961c34c743f3e7eeacc8ad738d60d040e721c642e
     icon: https://docs.gitea.io/images/gitea.png
@@ -46,7 +68,7 @@ entries:
     - gitea-0.0.3.tgz
     version: 0.0.3
   - appVersion: 0.0.2
-    created: "2020-02-07T16:08:21.767073+08:00"
+    created: 2020-02-07T09:45:05.312692495Z
     description: Git with a cup of tea
     digest: c86bff34b4da10355ae691a207d9e9c802c0af35f18611f0f4770198f22f09eb
     icon: https://docs.gitea.io/images/gitea.png
@@ -67,4 +89,4 @@ entries:
     urls:
     - gitea-0.0.2.tgz
     version: 0.0.2
-generated: "2020-02-07T16:08:21.763986+08:00"
+generated: 2020-02-07T09:45:05.309124163Z
